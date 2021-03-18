@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MasterMindWebServices
 - 👀 I’m interested in Python and Ml
 - 🌱 I’m currently learning Computer Engineering
-- 📫 How to reach me - mastermindwebservices@gmail.com
+- 📫 How to reach me - mastermindwebservice@gmail.com
 
 <!---
 MasterMindWebServices/MasterMindWebServices is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
