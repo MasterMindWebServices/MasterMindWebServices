@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @MasterMindWebServices
-- 👀 I’m interested in Python and Ml
-- 🌱 I’m currently learning Computer Engineering
-- 📫 How to reach me - mastermindwebservice@gmail.com
+- 👋 Hi, We are @MasterMindWebServices
+- 📫 How to reach us - mastermindwebservice@gmail.com
 
 
